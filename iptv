@@ -1,0 +1,466 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globosp.png" group-title="REDE GLOBO",GLOBO SP FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5136
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globosp.png" group-title="REDE GLOBO",GLOBO SP HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5116
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/globosp.png" group-title="REDE GLOBO",GLOBO SP HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/59595
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globosp.png" group-title="REDE GLOBO",GLOBO SP SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5117
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/globosp.png" group-title="REDE GLOBO",GLOBO SP SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21390
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO RJ FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5137
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO RJ HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5120
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO RJ HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25584
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO RJ SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5121
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO RJ SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25585
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globominas.png" group-title="REDE GLOBO",GLOBO MINAS FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5138
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globominas.png" group-title="REDE GLOBO",GLOBO MINAS HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5128
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/globominas.png" group-title="REDE GLOBO",GLOBO MINAS HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21349
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globominas.png" group-title="REDE GLOBO",GLOBO MINAS SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5129
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO MINAS SD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/globominas.png" group-title="REDE GLOBO",GLOBO MINAS SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/43267
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globobrasilia.png" group-title="REDE GLOBO",GLOBO BRASILIA FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25431
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globobrasilia.png" group-title="REDE GLOBO",GLOBO BRASILIA HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5134
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globobrasilia.png" group-title="REDE GLOBO",GLOBO BRASILIA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5135
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASÍLIA SD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/globobrasilia.png" group-title="REDE GLOBO",GLOBO BRASÍLIA SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/29597
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globonordeste.png" group-title="REDE GLOBO",GLOBO NORDESTE FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25429
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globonordeste.png" group-title="REDE GLOBO",GLOBO NORDESTE HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5126
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globonordeste.png" group-title="REDE GLOBO",GLOBO NORDESTE SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5127
+#EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/eptv.png" group-title="REDE GLOBO",GLOBO EPTV CAMPINAS FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25430
+#EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://static.bladeuhd.com/logos/globo/eptv.png" group-title="REDE GLOBO",GLOBO EPTV CAMPINAS HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5132
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://static.bladeuhd.com/logos/globo/eptv.png" group-title="REDE GLOBO",GLOBO EPTV CAMPINAS SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5133
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO EPTV CAMPINAS SD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/eptv.png" group-title="REDE GLOBO",GLOBO EPTV CAMPINAS SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21316
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/eptv.png" group-title="REDE GLOBO",GLOBO EPTV RIBEIRÃO PRETO FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52186
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO EPTV RIBEIRÃO HD" tvg-logo="http://static.bladeuhd.com/logos/globo/eptv.png" group-title="REDE GLOBO",GLOBO EPTV RIBEIRÃO HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5131
+#EXTINF:-1 tvg-id="Eptvrpreto.br" tvg-name="GLOBO EPTV RIBEIRÃO SD" tvg-logo="http://static.bladeuhd.com/logos/globo/eptv.png" group-title="REDE GLOBO",GLOBO EPTV RIBEIRÃO SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5130
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO EPTV SÃO CARLOS SD" tvg-logo="http://static.bladeuhd.com/logos/globo/eptv.png" group-title="REDE GLOBO",GLOBO EPTV SÃO CARLOS SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25408
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO EPTV ARARAQUARA SD" tvg-logo="http://static.bladeuhd.com/logos/globo/eptv.png" group-title="REDE GLOBO",GLOBO EPTV ARARAQUARA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25406
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV FLORIANOPOLIS FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25428
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV FLORIANOPOLIS HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5124
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GLOBO NSC TV FLORIANÓPOLIS SD" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV FLORIANÓPOLIS SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5125
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO NSC TV CHAPECO FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV CHAPECO FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25446
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV CHAPECO HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25445
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO NSC TV CHAPECO SD" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV CHAPECO SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25444
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV BLUMENAU FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52173
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU HD" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV BLUMENAU HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52172
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU SD" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV BLUMENAU SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52171
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV JOINVILLE FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52167
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE HD" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV JOINVILLE HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52166
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE SD" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV JOINVILLE SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52165
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO NSC TV FLORIANÓPOLIS HD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/nsc.png" group-title="REDE GLOBO",GLOBO NSC TV FLORIANÓPOLIS HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/53176
+#EXTINF:-1 tvg-id="Globoportoalegre.br" tvg-name="GLOBO RBS P. ALEGRE FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/rbs.png" group-title="REDE GLOBO",GLOBO RBS P. ALEGRE FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25427
+#EXTINF:-1 tvg-id="Globoportoalegre.br" tvg-name="GLOBO RBS P. ALEGRE HD" tvg-logo="http://static.bladeuhd.com/logos/globo/rbs.png" group-title="REDE GLOBO",GLOBO RBS P. ALEGRE HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5122
+#EXTINF:-1 tvg-id="Globoportoalegre.br" tvg-name="GLOBO RBS P. ALEGRE SD" tvg-logo="http://static.bladeuhd.com/logos/globo/rbs.png" group-title="REDE GLOBO",GLOBO RBS P. ALEGRE SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5123
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/rbs.png" group-title="REDE GLOBO",GLOBO RBS TV CAXIAS DO SUL FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52170
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="http://static.bladeuhd.com/logos/globo/rbs.png" group-title="REDE GLOBO",GLOBO RBS TV CAXIAS DO SUL HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52169
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="http://static.bladeuhd.com/logos/globo/rbs.png" group-title="REDE GLOBO",GLOBO RBS TV CAXIAS DO SUL SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52168
+#EXTINF:-1 tvg-id="RBS TV Pelotas" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/rbs.png" group-title="REDE GLOBO",GLOBO RBS TV PELOTAS FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52164
+#EXTINF:-1 tvg-id="RBS TV Pelotas" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="http://static.bladeuhd.com/logos/globo/rbs.png" group-title="REDE GLOBO",GLOBO RBS TV PELOTAS HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52163
+#EXTINF:-1 tvg-id="RBS TV Pelotas" tvg-name="GLOBO RBS TV PELOTAS SD" tvg-logo="http://static.bladeuhd.com/logos/globo/rbs.png" group-title="REDE GLOBO",GLOBO RBS TV PELOTAS SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52162
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/rpc.png" group-title="REDE GLOBO",GLOBO RPC CURITIBA FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5107
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://static.bladeuhd.com/logos/globo/rpc.png" group-title="REDE GLOBO",GLOBO RPC CURITIBA HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5118
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="http://static.bladeuhd.com/logos/globo/rpc.png" group-title="REDE GLOBO",GLOBO RPC CURITIBA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5119
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PR HD" tvg-logo="http://static.bladeuhd.com/logos/globo/rpc.png" group-title="REDE GLOBO",GLOBO RPC PR HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/53166
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/rpc.png" group-title="REDE GLOBO",GLOBO RPC FOZ DO IGUACU FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25442
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="http://static.bladeuhd.com/logos/globo/rpc.png" group-title="REDE GLOBO",GLOBO RPC FOZ DO IGUACU HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25441
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO RPC FOZ DO IGUACU SD" tvg-logo="http://static.bladeuhd.com/logos/globo/rpc.png" group-title="REDE GLOBO",GLOBO RPC FOZ DO IGUACU SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25443
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoba.png" group-title="REDE GLOBO",GLOBO TV BAHIA FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25425
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoba.png" group-title="REDE GLOBO",GLOBO TV BAHIA HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5112
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV BAHIA SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoba.png" group-title="REDE GLOBO",GLOBO TV BAHIA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5113
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV BAHIA SD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/globoba.png" group-title="REDE GLOBO",GLOBO TV BAHIA SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/29594
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO TV ANHANGUERA GO FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/tvanhanguera.png" group-title="REDE GLOBO",GLOBO TV ANHANGUERA GO FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25426
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO TV ANHANGUERA GO HD" tvg-logo="http://static.bladeuhd.com/logos/globo/tvanhanguera.png" group-title="REDE GLOBO",GLOBO TV ANHANGUERA GO HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5114
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO TV ANHANGUERA GO SD" tvg-logo="http://static.bladeuhd.com/logos/globo/tvanhanguera.png" group-title="REDE GLOBO",GLOBO TV ANHANGUERA GO SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5115
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GLOBO TV MIRANTE SÃO LUIS FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoma.png" group-title="REDE GLOBO",GLOBO TV MIRANTE SÃO LUIS FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25424
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GLOBO TV MIRANTE SÃO LUIS HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoma.png" group-title="REDE GLOBO",GLOBO TV MIRANTE SÃO LUIS HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25423
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GLOBO TV MIRANTE SÃO LUIS SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoma.png" group-title="REDE GLOBO",GLOBO TV MIRANTE SÃO LUIS SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25422
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA CAMPO GRANDE FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoms.png" group-title="REDE GLOBO",GLOBO TV MORENA CAMPO GRANDE FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25421
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA CAMPO GRANDE HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoms.png" group-title="REDE GLOBO",GLOBO TV MORENA CAMPO GRANDE HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25420
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA CAMPO GRANDE SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoms.png" group-title="REDE GLOBO",GLOBO TV MORENA CAMPO GRANDE SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25419
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globose.png" group-title="REDE GLOBO",GLOBO TV SERGIPE FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25433
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globose.png" group-title="REDE GLOBO",GLOBO TV SERGIPE HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25432
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE HD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/globose.png" group-title="REDE GLOBO",GLOBO TV SERGIPE HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/53172
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GLOBO TV SERGIPE SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globose.png" group-title="REDE GLOBO",GLOBO TV SERGIPE SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25434
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globopi.png" group-title="REDE GLOBO",GLOBO TV CLUBE TERESINA FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25439
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globopi.png" group-title="REDE GLOBO",GLOBO TV CLUBE TERESINA HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25438
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV CLUBE TERESINA SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globopi.png" group-title="REDE GLOBO",GLOBO TV CLUBE TERESINA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25440
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globotvgazeta.png" group-title="REDE GLOBO",GLOBO TV GAZETA ALAGOAS FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25416
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GLOBO TV GAZETA ALAGOAS HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globotvgazeta.png" group-title="REDE GLOBO",GLOBO TV GAZETA ALAGOAS HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25415
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GLOBO TV GAZETA ALAGOAS SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globotvgazeta.png" group-title="REDE GLOBO",GLOBO TV GAZETA ALAGOAS SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25417
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO TV GAZETA VITÓRIA FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoes.png" group-title="REDE GLOBO",GLOBO TV GAZETA VITÓRIA FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25436
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO TV GAZETA VITÓRIA HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoes.png" group-title="REDE GLOBO",GLOBO TV GAZETA VITÓRIA HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25435
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV GAZETA VITÓRIA SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoes.png" group-title="REDE GLOBO",GLOBO TV GAZETA VITÓRIA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25437
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM S.J.R.P FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/tvtemsorocaba.png" group-title="REDE GLOBO",GLOBO TV TEM S.J.R.P FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25418
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM S.J.R.P. HD" tvg-logo="http://static.bladeuhd.com/logos/globo/tvtemsorocaba.png" group-title="REDE GLOBO",GLOBO TV TEM S.J.R.P. HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5110
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV TEM S.J.R.P. SD" tvg-logo="http://static.bladeuhd.com/logos/globo/tvtemsorocaba.png" group-title="REDE GLOBO",GLOBO TV TEM S.J.R.P. SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5109
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="http://static.bladeuhd.com/logos/globo/tvtemsorocaba.png" group-title="REDE GLOBO",GLOBO TV TEM BAURU SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5111
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV TEM BAURU SD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/tvtemsorocaba.png" group-title="REDE GLOBO",GLOBO TV TEM BAURU SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25704
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="http://static.bladeuhd.com/logos/globo/tvtemsorocaba.png" group-title="REDE GLOBO",GLOBO TV TEM SOROCABA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5108
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV TEM SOROCABA SD ²" tvg-logo="http://static.bladeuhd.com/logos/globo/tvtemsorocaba.png" group-title="REDE GLOBO",GLOBO TV TEM SOROCABA SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25705
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globosp.png" group-title="REDE GLOBO",GLOBO TV TRIBUNA SANTOS SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25450
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globofortaleza.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25448
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV CENTRO AMÉRICA SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globomt.png" group-title="REDE GLOBO",GLOBO TV CENTRO AMÉRICA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25411
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV LIBERAL BELÉM SD" tvg-logo="http://static.bladeuhd.com/logos/globo/tvliberal.png" group-title="REDE GLOBO",GLOBO TV LIBERAL BELÉM SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25410
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globonordeste.png" group-title="REDE GLOBO",GLOBO TV CABO BRANCO FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52161
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globonordeste.png" group-title="REDE GLOBO",GLOBO TV CABO BRANCO HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52160
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globonordeste.png" group-title="REDE GLOBO",GLOBO TV CABO BRANCO SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52159
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO TV GAZETA SUL ES FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoes.png" group-title="REDE GLOBO",GLOBO TV GAZETA SUL ES FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52188
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO TV GAZETA SUL ES HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoes.png" group-title="REDE GLOBO",GLOBO TV GAZETA SUL ES HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52187
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO TV RIO SUL FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52158
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO TV RIO SUL HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52157
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO TV RIO SUL SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52156
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoba.png" group-title="REDE GLOBO",GLOBO TV SANTA CRUZ FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52155
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoba.png" group-title="REDE GLOBO",GLOBO TV SANTA CRUZ HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52154
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoba.png" group-title="REDE GLOBO",GLOBO TV SANTA CRUZ SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52153
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO INTER TV CABUGI SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorn.png" group-title="REDE GLOBO",GLOBO INTER TV CABUGI SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25407
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO INTER TV ALTO LITORAL FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52185
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO INTER TV ALTO LITORAL HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52184
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO INTER TV ALTO LITORAL SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52183
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globominas.png" group-title="REDE GLOBO",GLOBO INTER TV DOS VALES FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52182
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globominas.png" group-title="REDE GLOBO",GLOBO INTER TV DOS VALES HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52181
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO INTER TV DOS VALES SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globominas.png" group-title="REDE GLOBO",GLOBO INTER TV DOS VALES SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52180
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globominas.png" group-title="REDE GLOBO",GLOBO INTER TV GRANDE MINAS FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52179
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globominas.png" group-title="REDE GLOBO",GLOBO INTER TV GRANDE MINAS HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52178
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO INTER TV GRANDE MINAS SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globominas.png" group-title="REDE GLOBO",GLOBO INTER TV GRANDE MINAS SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52177
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO INTER TV SERRA MAR FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52176
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO INTER TV SERRA MAR HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52175
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globorj.png" group-title="REDE GLOBO",GLOBO INTER TV SERRA MAR SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/52174
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO VANGUARDA S.J.D.C. SD" tvg-logo="http://static.bladeuhd.com/logos/globo/vanguarda.png" group-title="REDE GLOBO",GLOBO VANGUARDA S.J.D.C. SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25449
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO REDE AMAZÔNICA SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoamazonas.png" group-title="REDE GLOBO",GLOBO REDE AMAZÔNICA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25409
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="http://static.bladeuhd.com/logos/globo/internacional.png" group-title="REDE GLOBO",GLOBO INTERNACIONAL HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/30971
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 11 HD" tvg-logo="https://i2.wp.com/afazenda2019.com/wp-content/uploads/2018/01/a-fazenda-9-ao-vivo-online.png" group-title="CANAIS ABERTOS",A FAZENDA 11 HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/68335
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 11 HD ²" tvg-logo="" group-title="CANAIS ABERTOS",A FAZENDA 11 HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/67506
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 11 SD ²" tvg-logo="" group-title="CANAIS ABERTOS",A FAZENDA 11 SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/67505
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP FHD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV SP FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4972
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV SP HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4962
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP HD ²" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV SP HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21089
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV SP SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4965
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP SD ²" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV SP SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21088
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV HD ²" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/64457
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORD TV MG FHD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV MG FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/29855
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="RECORD TV MG HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV MG HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/29849
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORD TV MG SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV MG SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/29848
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORD TV RJ FHD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV RJ FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/29854
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="RECORD TV RJ HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV RJ HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/29850
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORD TV RJ SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV RJ SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/22949
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV BA HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV BA HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/45847
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV BA HD ²" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV BA HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/56977
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV BA SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV BA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/45846
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV RS FHD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV RS FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/55446
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV RS HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV RS HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/45843
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV RS HD ²" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV RS HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/55452
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV RS SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV RS SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/45842
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV DF FHD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV DF FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/55447
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV DF HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV DF HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/45845
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV E.S SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV E.S SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/57918
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV DF SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV DF SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/45844
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV GO HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV GO HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/55450
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV PR HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV PR HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/53168
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SC HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV SC HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/53175
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SERGIPE HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV SERGIPE HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/53171
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV RIO PRETO SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/record.png" group-title="CANAIS ABERTOS",RECORD TV RIO PRETO SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4963
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://static.bladeuhd.com/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SP FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4971
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SP HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4956
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD ²" tvg-logo="http://static.bladeuhd.com/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SP HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21085
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SP SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4957
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD ²" tvg-logo="http://static.bladeuhd.com/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SP SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21084
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP INTERIOR SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SP INTERIOR SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4955
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ALTEROSA HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT TV ALTEROSA HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/30975
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV CIDADE VERDE PI HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT TV CIDADE VERDE PI HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5971
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PR HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT PR HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/53167
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SC HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SC HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/53174
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT RS HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/56974
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERGIPE HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SERGIPE HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/53170
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV JANGADEIRO HD" tvg-logo="http://bp1.blogger.com/_GgI7-2UIpiU/SE1JW1M3gjI/AAAAAAAAF6o/o7hnEgjF82M/s400/jangad.gif" group-title="CANAIS ABERTOS",SBT TV JANGADEIRO HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/67394
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="BAND SP FHD" tvg-logo="http://static.bladeuhd.com/logos/abertos/band.png" group-title="CANAIS ABERTOS",BAND SP FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4973
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="BAND SP HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/band.png" group-title="CANAIS ABERTOS",BAND SP HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4969
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="BAND SP HD ²" tvg-logo="http://static.bladeuhd.com/logos/abertos/band.png" group-title="CANAIS ABERTOS",BAND SP HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21095
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="BAND SP SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/band.png" group-title="CANAIS ABERTOS",BAND SP SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4970
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="BAND SP SD ²" tvg-logo="http://static.bladeuhd.com/logos/abertos/band.png" group-title="CANAIS ABERTOS",BAND SP SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21094
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="BAND SERGIPE HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/band.png" group-title="CANAIS ABERTOS",BAND SERGIPE HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/53173
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="BAND TV TAROBA PR HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/band.png" group-title="CANAIS ABERTOS",BAND TV TAROBA PR HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/53169
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="BAND RS HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/band.png" group-title="CANAIS ABERTOS",BAND RS HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/55451
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://static.bladeuhd.com/logos/abertos/redetv.png" group-title="CANAIS ABERTOS",REDE TV FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25402
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/redetv.png" group-title="CANAIS ABERTOS",REDE TV HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4959
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD ²" tvg-logo="http://static.bladeuhd.com/logos/abertos/redetv.png" group-title="CANAIS ABERTOS",REDE TV HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21087
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/redetv.png" group-title="CANAIS ABERTOS",REDE TV SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4960
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD ²" tvg-logo="http://static.bladeuhd.com/logos/abertos/redetv.png" group-title="CANAIS ABERTOS",REDE TV SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21086
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV RS SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/redetv.png" group-title="CANAIS ABERTOS",REDE TV RS SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5954
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SP FHD" tvg-logo="http://static.bladeuhd.com/logos/abertos/tvcultura.png" group-title="CANAIS ABERTOS",TV CULTURA SP FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/25403
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="TV CULTURA SP HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/tvcultura.png" group-title="CANAIS ABERTOS",TV CULTURA SP HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/22950
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SP SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/tvcultura.png" group-title="CANAIS ABERTOS",TV CULTURA SP SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/29852
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD" tvg-logo="http://static.bladeuhd.com/logos/abertos/futura.png" group-title="CANAIS ABERTOS",FUTURA FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/22636
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/futura.png" group-title="CANAIS ABERTOS",FUTURA HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4967
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA UP TV SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/futura.png" group-title="CANAIS ABERTOS",FUTURA UP TV SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/22575
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV ESCOLA SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/tvescola.png" group-title="CANAIS ABERTOS",TV ESCOLA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4948
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO FORTALEZA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1200px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS ABERTOS",TV DIARIO FORTALEZA FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/55455
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO FORTALEZA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1200px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS ABERTOS",TV DIARIO FORTALEZA HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/55454
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/tvbrasil.png" group-title="CANAIS ABERTOS",TV BRASIL SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4950
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL BA SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/tvbrasil.png" group-title="CANAIS ABERTOS",TV BRASIL BA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/22576
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/redebrasil.png" group-title="CANAIS ABERTOS",REDE BRASIL SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4961
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL SD ²" tvg-logo="http://static.bladeuhd.com/logos/abertos/redebrasil.png" group-title="CANAIS ABERTOS",REDE BRASIL SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/22587
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="TV GAZETA SP HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/tvgazeta.png" group-title="CANAIS ABERTOS",TV GAZETA SP HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4947
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA HD" tvg-logo="http://static.bladeuhd.com/logos/abertos/terraviva.png" group-title="CANAIS ABERTOS",TERRA VIVA HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4954
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/tvjustica.png" group-title="CANAIS ABERTOS",TV JUSTICA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4952
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CÂMARA SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/tvcamara.png" group-title="CANAIS ABERTOS",TV CÂMARA SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4949
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/tvsenado.png" group-title="CANAIS ABERTOS",TV SENADO SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4953
+#EXTINF:-1 tvg-id="Nbr.br" tvg-name="NBR SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/nbr.png" group-title="CANAIS ABERTOS",NBR SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/4966
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV PAMPA RS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="CANAIS ABERTOS",REDE TV PAMPA RS HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/56971
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv.png" group-title="ESPORTES",SPORTV FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5047
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv.png" group-title="ESPORTES",SPORTV HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5012
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD ²" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv.png" group-title="ESPORTES",SPORTV HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21130
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv.png" group-title="ESPORTES",SPORTV SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5017
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD ²" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv.png" group-title="ESPORTES",SPORTV SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21129
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv2.png" group-title="ESPORTES",SPORTV 2 FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5042
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv2.png" group-title="ESPORTES",SPORTV 2 HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5015
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD ²" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv2.png" group-title="ESPORTES",SPORTV 2 HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21128
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv2.png" group-title="ESPORTES",SPORTV 2 SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5016
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD ²" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv2.png" group-title="ESPORTES",SPORTV 2 SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21127
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv3.png" group-title="ESPORTES",SPORTV 3 FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5041
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv3.png" group-title="ESPORTES",SPORTV 3 HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5013
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD ²" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv3.png" group-title="ESPORTES",SPORTV 3 HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21126
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv3.png" group-title="ESPORTES",SPORTV 3 SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5014
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD ²" tvg-logo="http://static.bladeuhd.com/logos/esportes/sportv3.png" group-title="ESPORTES",SPORTV 3 SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21125
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD" tvg-logo="http://static.bladeuhd.com/logos/esportes/foxsports.png" group-title="ESPORTES",FOX SPORTS FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5048
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="http://static.bladeuhd.com/logos/esportes/foxsports.png" group-title="ESPORTES",FOX SPORTS HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5022
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD ²" tvg-logo="http://static.bladeuhd.com/logos/esportes/foxsports.png" group-title="ESPORTES",FOX SPORTS HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21132
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="http://static.bladeuhd.com/logos/esportes/foxsports.png" group-title="ESPORTES",FOX SPORTS SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5023
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD ²" tvg-logo="http://static.bladeuhd.com/logos/esportes/foxsports.png" group-title="ESPORTES",FOX SPORTS SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21131
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://static.bladeuhd.com/logos/esportes/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5043
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://static.bladeuhd.com/logos/esportes/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5020
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD ²" tvg-logo="http://static.bladeuhd.com/logos/esportes/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21134
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://static.bladeuhd.com/logos/esportes/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5021
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD ²" tvg-logo="http://static.bladeuhd.com/logos/esportes/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21133
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="http://static.bladeuhd.com/logos/esportes/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL FHD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5049
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://static.bladeuhd.com/logos/esportes/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL HD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5033
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD ²" tvg-logo="http://static.bladeuhd.com/logos/esportes/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL HD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21143
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="http://static.bladeuhd.com/logos/esportes/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL SD
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5034
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD ²" tvg-logo="http://static.bladeuhd.com/logos/esportes/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL SD ²
+http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21142
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD" tvg-logo="http://static.bladeuhd.com/logos/esportes/espn.png" group-title="ESPORTES",ESPN FHD
