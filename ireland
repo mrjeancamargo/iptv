@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="IE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/Official_Houses_of_the_Oireachtas_Logo.jpg" group-title="Undefined",Oireachtas
+https://d1h8rkqumz239n.cloudfront.net/oireachtas/ngrp:oireachtas.stream_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IE" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="News",RTE News Now
+https://live.rte.ie/live/a/channel3/news.isml/news.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IE" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="Undefined",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8?checkedby:iptvcat.com
