@@ -465,107 +465,72 @@ http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/5034
 http://bldtv.vip:80/CamargoSilva/hKQ2AMcnUg/21142
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD" tvg-logo="http://static.bladeuhd.com/logos/esportes/espn.png" group-title="ESPORTES",ESPN FHD
 
-################################################################################## Series 24 horas
+################################################################################## Series
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MR. ROBOT
+http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Series 24 horas
-http://bit.ly/facebookupedown
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T1|EP1
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MROBT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T1|EP2
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MROBT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T1|EP3
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MROBT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T1|EP4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MROBT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T1|EP5
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MROBT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T1|EP6
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MROBT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T1|EP7
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MROBT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T1|EP8
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MROBT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T1|EP9
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MROBT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T1|EP10
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MROBT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T2|EP1 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MROBS02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T2|EP2 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MROBS02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T2|EP3 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MROBS02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T2|EP4 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MROBS02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T2|EP5 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MROBS02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T2|EP6 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MROBS02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T2|EP7 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MROBS02EP07-up.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T2|EP8 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MROBS02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T2|EP9 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MROBS02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T2|EP10 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MROBS02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T2|EP11 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MROBS02EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T2|EP12 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/MROBS02EP12.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Chapolin
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=chapolin swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/chapolin.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Chaves
-rtmp://208.53.180.178/ctv playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/chaves.html
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Chaves
-rtmp://208.53.180.242/ctv?wmsAuthSign=%AUTH% playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/chaves.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Chaves
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/chaves.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Chuck
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/chuck.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Criminal Minds
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=criminal swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/criminalminds.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", CSI
-rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=csi swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/csi.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Dexter OFFF
-rtmp://88.190.34.152/dexter/dexter playpath=dexter swfUrl=http://www.tvonlinegratis.tv/player.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/dexter.html
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Dois homens e meio
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/two.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Dr. House OFFF
-http://62.210.88.208:8081/house/house/playlist.m3u8?wmsAuthSign=%AUTH%
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Drake e Josh
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=drake swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/drakejosh.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Eu A patroa e as crianÃ§as
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/patroa.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Eu A patroa e as crianÃ§as
-rtmp://208.53.180.242/ctv?wmsAuthSign=%AUTH% playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/patroa.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Eu A patroa e as crianÃ§as
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/patroa.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Friends
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=friends swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/friends.php
-	
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Glee
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=glee swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/glee.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Gossip Girl
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=gossip swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/gossip.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Heroes
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=heroes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/heroes.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Icarly
-rtmp://208.53.180.242/ctv?wmsAuthSign=%AUTH% playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/icarly.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Jaspion
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/jaspion.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Jackie Chan
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=jackie swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/jackie.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Kenan e Kel
-rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/kenanekel.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Lost
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=lost swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/lost.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Prison Break
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=prison swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/prisonbreak.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Simpsons
-rtmp://server1.livestreaming.ninja/live playpath=simpsons swfUrl=http://test.livestreaming.ninja/api/playerinc.swf pageUrl=http://test.livestreaming.ninja/embed.php?file=simpsons
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Simpsons
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH%  playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/simpsons.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", SmallVille
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=small swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/small.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Supernatural 
-rtmp://208.53.180.242/ctv?wmsAuthSign=%AUTH% playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/supernatural.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Supernatural 
-rtmp://208.53.180.242/ctv playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Supernatural
-rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/supernatural.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", The Big Bang Theory
-rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/bigbang.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Todo Munda odeia o Chris
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/cris.php
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IX3D1pm.png" group-title="Series 24 horas", Um Maluco no PedaÃ§o
-rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/maluconopedaco.php
-
+#EXTINF:-1 tvg-logo="https://goo.gl/BMJnsA" group-title="MR. ROBOT", MRBT T3|EP1 (LEG)
+http://origin.ntcdn.us/content/httpdelivery/mrrobot/03leg/001-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/F1dZ85" group-title="MR. ROBOT", MRBT T3|EP2 (LEG)
+http://origin.ntcdn.us/content/httpdelivery/mrrobot/03leg/02-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/USVLsV" group-title="MR. ROBOT", MRBT T3|EP3 (LEG)
+http://origin.ntcdn.us/content/httpdelivery/mrrobot/03leg/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/G7Z9DS" group-title="MR. ROBOT", MRBT T3|EP4 (LEG)
+http://origin.ntcdn.us/content/httpdelivery/mrrobot/03leg/04-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Xk4Jn7" group-title="MR. ROBOT", MRBT T3|EP5 (LEG)
+http://origin.ntcdn.us/content/httpdelivery/mrrobot/03leg/05-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DHqGUK" group-title="MR. ROBOT", MRBT T3|EP6 (LEG)
+http://origin.ntcdn.us/content/httpdelivery/mrrobot/03leg/06-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DHqGUK" group-title="MR. ROBOT", MRBT T3|EP7 (LEG)
+http://origin.ntcdn.us/content/httpdelivery/mrrobot/03leg/07-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DHqGUK" group-title="MR. ROBOT", MRBT T3|EP8 (LEG)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/MROBS03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DHqGUK" group-title="MR. ROBOT", MRBT T3|EP9 (LEG)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/MROBS03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DHqGUK" group-title="MR. ROBOT", MRBT T3|EP10 (LEG)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/MROBS03EP10.mp4
